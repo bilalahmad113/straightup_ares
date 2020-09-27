@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ares</string>
+    <string name="facebook_app_id">357767058936398</string>
+    <string name="fb_login_protocol_scheme">fb357767058936398</string>
+</resources>
